@@ -65,11 +65,11 @@ go get -u gonum.org/v1/gonum/...
 ### Run the Neural Network
 Run the neural network implementation:
 ```sh
-go run main.go
+go run neuralNetwork.go
 ```
 
 ## Directory Structure
-- `main.go`: The main Go file containing the neural network implementation.
+- `neuralNetwork.go`: The main Go file containing the neural network implementation.
 - `data/`: Directory containing training and testing data in CSV format.
 
 ## Contributing
